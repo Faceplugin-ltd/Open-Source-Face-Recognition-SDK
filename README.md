@@ -3,10 +3,6 @@
 </div>
 
 # Face Recognition SDK for Windows and Linux - Fully On Premise
-
-![Forks](https://img.shields.io/github/forks/Faceplugin-ltd/Face-Recognition)
-![Stars](https://img.shields.io/github/stars/Faceplugin-ltd/Face-Recognition)
-
 ## Overview
 The world's 1st **Completely Free and Open Source** `Face Recognition SDK` from [Faceplugin](https://faceplugin.com/) for developers to integrate face recognition capabilities into applications. Supports real-time, high-accuracy face recognition with deep learning models.
 <br>This is `on-premise face recognition SDK` which means everything is processed in your phone and **NO** data leaves the device
