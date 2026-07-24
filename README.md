@@ -221,8 +221,7 @@ Explore our complete suite of face recognition and biometric solutions:
 
 ### 📞 Get in Touch
 - **Email**: [info@faceplugin.com](mailto:info@faceplugin.com)
-- **Telegram**: [@faceplugin](https://t.me/faceplugin)
-- **WhatsApp**: [+1 (938) 202-5720](https://wa.me/+19382025720)
+- **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+14692784822)
 - **Website**: [faceplugin.com](https://faceplugin.com/)
 
 ---
