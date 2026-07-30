@@ -214,14 +214,14 @@ Explore our complete suite of face recognition and biometric solutions:
   <a href="https://t.me/faceplugin">
     <img src="https://img.shields.io/badge/Telegram-@faceplugin-blue.svg?logo=telegram" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/+19382025720">
+  <a href="https://wa.me/+14692784822">
     <img src="https://img.shields.io/badge/WhatsApp-faceplugin-green.svg?logo=whatsapp" alt="WhatsApp"/>
   </a>
 </div>
 
 ### 📞 Get in Touch
 - **Email**: [info@faceplugin.com](mailto:info@faceplugin.com)
-- **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+14692784822)
+- **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+)
 - **Website**: [faceplugin.com](https://faceplugin.com/)
 
 ---
