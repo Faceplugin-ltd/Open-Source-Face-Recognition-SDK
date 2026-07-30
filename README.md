@@ -3,7 +3,7 @@
   
   # Open Source Face Recognition SDK
   
-  **The world's first completely free and open-source face recognition SDK for Windows and Linux**
+  **The world's first completely free and open-source face recognition SDK for Windows and Linux from [Faceplugin](https://faceplugin.com/)**
   
   [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK)
   [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
