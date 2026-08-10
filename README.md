@@ -175,9 +175,6 @@ For higher accuracy requirements and enterprise features, contact us for our com
 - **Liveness Detection**: Anti-spoofing capabilities
 - **Multi-Platform Support**: Android, iOS, Web, and more
 - **Technical Support**: Professional assistance and documentation
-
-**Contact us at:** [info@faceplugin.com](mailto:info@faceplugin.com)
-
 ---
 
 ## 📚 Related Products
@@ -206,7 +203,7 @@ Explore our complete suite of face recognition and biometric solutions:
 ---
 
 ## 🤝 Support & Contact
-
+While there are many ways to support this project, starring ⭐️ this GitHub repository is one of the simplest and most impactful. It increases discoverability and helps the project reach a wider audience. Thank you for your support 🙏
 <div align="center">
   <a href="mailto:info@faceplugin.com">
     <img src="https://img.shields.io/badge/Email-info@faceplugin.com-blue.svg?logo=gmail" alt="Email"/>
@@ -221,7 +218,7 @@ Explore our complete suite of face recognition and biometric solutions:
 
 ### 📞 Get in Touch
 - **Email**: [info@faceplugin.com](mailto:info@faceplugin.com)
-- **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+)
+- **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+14692784822)
 - **Website**: [faceplugin.com](https://faceplugin.com/)
 
 ---
