@@ -167,38 +167,46 @@ This SDK is ideal for various applications:
 
 ---
 
-## 🏢 Enterprise Solutions
+## 🏢 More Biometric SDKs from Faceplugin
 
-For higher accuracy requirements and enterprise features, contact us for our commercial SDK offerings:
+This project is developed by **[Faceplugin](https://faceplugin.com/)**, a provider of on-premise biometric and identity verification SDKs.
 
-- **Enhanced Accuracy Models**: Superior recognition performance
-- **Liveness Detection**: Anti-spoofing capabilities
-- **Multi-Platform Support**: Android, iOS, Web, and more
-- **Technical Support**: Professional assistance and documentation
----
+If you need capabilities beyond this open-source SDK, explore Faceplugin's commercial SDKs for:
 
-## 📚 Related Products
+| Solution | Description |
+|---|---|
+| 👤 **Face Recognition** | Face recognition, verification, identification, attributes, and biometric authentication |
+| 🛡️ **Face Liveness Detection** | Detect presentation attacks during face verification and authentication |
+| 🆔 **ID Document Recognition** | OCR, MRZ, barcode recognition, and document classification |
+| 🔐 **ID Document Liveness Detection** | Detect presentation attacks involving identity documents |
 
-Explore our complete suite of face recognition and biometric solutions:
+Explore our complete suite of **biometric and identity verification solutions**, including face recognition, face liveness detection, ID document recognition and ID document liveness detection SDKs.
 
-### Mobile SDKs
-- [Android (Java/Kotlin)](https://github.com/Faceplugin-ltd/FaceRecognition-Android)
-- [iOS (Objective-C/Swift)](https://github.com/Faceplugin-ltd/FaceRecognition-iOS)
-- [React Native](https://github.com/Faceplugin-ltd/FaceRecognition-React-Native)
-- [Flutter](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter)
 
-### Web & Desktop
-- [JavaScript](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript)
-- [React](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-React)
-- [Vue.js](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Vue)
-- [.NET MAUI](https://github.com/Faceplugin-ltd/FaceRecognition-.Net)
-- [.NET WPF](https://github.com/Faceplugin-ltd/FaceRecognition-WPF-.Net)
+### Face Recognition SDKs
+- [Face Recognition + Liveness — Android](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · Java, Kotlin
+- [Face Recognition + Liveness — iOS](https://github.com/Faceplugin-ltd/FaceRecognition-iOS) · Objective-C, Swift
+- [Face Recognition + Liveness — Flutter](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter)
+- [Face Recognition + Liveness — React Native](https://github.com/Faceplugin-ltd/FaceRecognition-React-Native)
+- [Face Recognition + Liveness — Ionic Cordova](https://github.com/Faceplugin-ltd/FaceRecognition-Ionic-Cordova)
+- [Face Recognition + Liveness — Ionic Capacitor](https://github.com/Faceplugin-ltd/FaceRecognition-Ionic-Capacitor)
+- [Face Recognition + Liveness — Docker for Linux](https://github.com/Faceplugin-ltd/FaceRecognition-Docker)
+- [Face Recognition + Liveness — Windows](https://github.com/Faceplugin-ltd/FaceRecognition-Windows)
+- [Face Recognition + Liveness — .NET MAUI](https://github.com/Faceplugin-ltd/FaceRecognition-.Net)
+- [Face Recognition + Liveness — .NET WPF](https://github.com/Faceplugin-ltd/FaceRecognition-WPF-.Net)
 
-### Specialized Solutions
-- [Liveness Detection](https://github.com/Faceplugin-ltd/Face-Liveness-Detection-SDK)
-- [Palm Recognition](https://github.com/Faceplugin-ltd/Palm-Recognition)
-- [ID Card Recognition](https://github.com/Faceplugin-ltd/ID-Card-Recognition)
-- [Document Liveness Detection](https://github.com/Faceplugin-ltd/ID-Document-Liveness-Detection)
+### ID Document Recognition SDKs
+- [ID Document Recognition — Android](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Android) · Java, Kotlin
+- [ID Document Recognition — iOS](https://github.com/Faceplugin-ltd/ID-Document-Recognition-iOS) · Objective-C, Swift
+- [ID Document Recognition — Flutter](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Flutter)
+- [ID Document Recognition — React Native](https://github.com/Faceplugin-ltd/ID-Document-Recognition-React-Native)
+- [ID Document Recognition — Ionic Cordova](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Ionic-Cordova)
+- [ID Document Recognition — Ionic Capacitor](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Ionic-Capacitor)
+- [ID Document Recognition — Docker for Linux](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Docker)
+- [ID Document Recognition — Windows](https://github.com/Faceplugin-ltd/ID-Document-Recognition-Windows)
+
+### ID Document Liveness Detection SDK
+- [ID Document Liveness Detection](https://github.com/Faceplugin-ltd/ID-Document-Liveness-Detection-Docker)
 
 ---
 
@@ -207,9 +215,6 @@ While there are many ways to support this project, starring ⭐️ this GitHub r
 <div align="center">
   <a href="mailto:info@faceplugin.com">
     <img src="https://img.shields.io/badge/Email-info@faceplugin.com-blue.svg?logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://t.me/faceplugin">
-    <img src="https://img.shields.io/badge/Telegram-@faceplugin-blue.svg?logo=telegram" alt="Telegram"/>
   </a>
   <a href="https://wa.me/+14692784822">
     <img src="https://img.shields.io/badge/WhatsApp-faceplugin-green.svg?logo=whatsapp" alt="WhatsApp"/>
