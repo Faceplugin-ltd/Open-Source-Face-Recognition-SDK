@@ -219,11 +219,15 @@ While there are many ways to support this project, starring ⭐️ this GitHub r
   <a href="https://wa.me/+14692784822">
     <img src="https://img.shields.io/badge/WhatsApp-faceplugin-green.svg?logo=whatsapp" alt="WhatsApp"/>
   </a>
+  <a href="https://t.me/FacePluginSupport">
+    <img src="https://img.shields.io/badge/telegram-@FacePluginSupport-blue.svg?logo=telegram" alt="Telegram @facepluginSDK">
+  </a>
 </div>
 
 ### 📞 Get in Touch
 - **Email**: [info@faceplugin.com](mailto:info@faceplugin.com)
 - **WhatsApp**: [+1 (469) 278-4822](https://wa.me/+14692784822)
+- **Telegram**: [@FacePluginSupport](https://t.me/FacePluginSupport)
 - **Website**: [faceplugin.com](https://faceplugin.com/)
 
 ---
