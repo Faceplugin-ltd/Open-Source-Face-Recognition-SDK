@@ -17,6 +17,8 @@
 
 The **Open Source Face Recognition SDK** by [Faceplugin](https://faceplugin.com/) is a powerful, privacy-focused solution for integrating face recognition capabilities into your applications. Built with deep learning models, this SDK provides high-accuracy face detection and recognition while ensuring complete data privacy through on-premise processing.
 
+Looking for **face anti-spoofing**? Check out our **free, open-source Face Liveness Detection SDK** for **Windows and Linux**, which detects presentation attacks such as photos, videos, and masks in real time. [Get the Open-Source Face Liveness Detection SDK from Faceplugin](https://github.com/Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK).
+
 ### ✨ Key Features
 
 - 🔒 **100% On-Premise**: All processing happens locally - no data leaves your device
